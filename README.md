@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm passionate about creating efficient, scalable, and use
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarabdillah354&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarabdillah354&layout=compact&theme=radical&hide=javascript,html" alt="Top Languages">
 </p>
 
 <p align="center">
