@@ -64,6 +64,7 @@ Welcome to my GitHub! I'm passionate about creating efficient, scalable, and use
 - Advanced microservices patterns
 - Machine Learning integration in Java applications
 - Cloud-native application development
+- Quarkus
 
 ### 📫 Let's Connect!
 
