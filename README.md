@@ -52,9 +52,7 @@ Welcome to my GitHub! I'm passionate about creating efficient, scalable, and use
   <img src="https://github-profile-trophy.vercel.app/?username=fajarabdillah354&theme=radical&row=1&column=6" alt="GitHub Trophies">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajarabdillah354&theme=radical" alt="GitHub Streak">
-</p>
+
 
 
 
